@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--    My Strings -->
+    <color name="blue_200">#FF90CAF9</color>
+    <color name="blue_500">#FF2196F3</color>
+    <color name="blue_700">#FF1976D2</color>
+
+    <color name="kelvin">#F57F17</color>
+    <color name="reamur">#2E7D32</color>
+    <color name="farenhit">#D32F2F</color>
+
+    <!--    Light Mode -->
+    <color name="cyan_200">#20a2b5</color>
+    <color name="cyan_290">#29C9E0</color>
+    <!--    Dark Mode -->
+    <color name="gray_600">#616161</color>
+    <color name="orange_600">#ff6038</color>
+    <color name="orange_900">#ff9980</color>
+
+
+</resources>
